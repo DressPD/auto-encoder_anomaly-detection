@@ -1,0 +1,12 @@
+itemid,name,bomc_id,timestamp,value,cmdb_id
+999999996470837,container_fail_percent,ZJ-004-065,1590768040000,0.0,container_001
+999999996470922,container_fail_percent,ZJ-004-065,1590768041000,0.0,container_002
+999999996470837,container_fail_percent,ZJ-004-065,1590768093000,0.0,container_001
+999999996470922,container_fail_percent,ZJ-004-065,1590768094000,0.0,container_002
+999999996470837,container_fail_percent,ZJ-004-065,1590768154000,0.0,container_001
+999999996470922,container_fail_percent,ZJ-004-065,1590768161000,0.0,container_002
+999999996470837,container_fail_percent,ZJ-004-065,1590768222000,0.0,container_001
+999999996470922,container_fail_percent,ZJ-004-065,1590768225000,0.0,container_002
+999999996470837,container_fail_percent,ZJ-004-065,1590768282000,0.0,container_001
+999999996470922,container_fail_percent,ZJ-004-065,1590768284000,0.0,container_002
+999999996470837,container_fail_percent,ZJ-004-065,1590768335000,0.0,container_001
